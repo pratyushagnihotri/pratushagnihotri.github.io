@@ -1,12 +1,12 @@
 ---
-title: 'An example conference paper'
+title: 'ZeroTune: Learned Zero-Shot Cost Models for Parallelism Tuning in Stream Processing'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Pratyush Agnihotri, Boris Koldehofe, Paul Stiegele, Roman Heinrich, Carsten Binnig, Manisha Luthra
 
 # Author notes (optional)
 author_notes:
@@ -25,13 +25,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: Accepted and to be appeared in IEEE 40th International Conference on Data Engineering (ICDE)
+publication_short:  Accepted and to be appeared ICDE
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper introduces ZeroTune, a novel cost model for parallel and distributed stream processing that can be used to effectively set initial parallelism degrees of streaming queries. Unlike existing models, which rely majorly on online learning statistics that are non-transferable, context-specific, and require extensive training, ZeroTune proposes data-efficient zero-shot learning techniques that enable very accurate cost predictions without having observed any query deployment. To overcome these challenges, we propose ZeroTune, a graph neural network architecture that can learn from the structural complexity of parallel distributed stream processing systems, enabling them to adapt to unseen workloads and hardware configurations. In our experiments, we show when integrating ZeroTune in a distributed streaming system such as Apache Flink, we can accurately set the degree of parallelism, showing an average speed-up of around 5× in comparison to existing approaches.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper introduces ZeroTune, a novel cost model for parallel and distributed stream processing that can be used to effectively set initial parallelism degrees of streaming queries.
 
 tags: []
 
