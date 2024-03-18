@@ -39,16 +39,16 @@ education:
     - course: PhD in Computer Science (ongoing)
       institution: Technical University of Darmstadt
       year: 2021
-    - course: M.Sc. in Distributed Software Systems
+    - course: M.Sc. in Computer Science with specialization Distributed Software Systems
       institution: Technical University of Darmstadt
-      topic: Towards Information-centric Collaboration Framework for Mobile Crowd Sensing
-      achievement: Best grades (1.0) and 
+      #topic: Towards Information-centric Collaboration Framework for Mobile Crowd Sensing
+      #achievement: Best grades (1.0) and 
       link: [paper published in 42nd IEEE Conference on Local Computer Networks (LCN'17)](https://ieeexplore.ieee.org/abstract/document/8109329/)
       year: 2016
     - course: B.Tech in Computer Science and Engineering
       institution: Amity University
-      topic: Towards Information-centric Collaboration Framework for Mobile Crowd Sensing
-      achievement: Best grades (9.34) and 
+      #topic: Towards Information-centric Collaboration Framework for Mobile Crowd Sensing
+      #achievement: Best grades (9.34) and 
       link: [paper published in 42nd IEEE Conference on Local Computer Networks (LCN'17)](https://ieeexplore.ieee.org/abstract/document/8109329/)
       year: 2010
 
