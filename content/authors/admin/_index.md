@@ -29,20 +29,20 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Data Stream Processing
-  - Machine Learning
-  - Information Retrieval
+  - Distributed Parallel Stream Processing
+  - Distributed Machine Learning 
+  - Autonomous Resource Management
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
+    - course: PhD in Computer Science (ongoing)
+      institution: Technical University of Darmstadt
+      year: 2021
+    - course: M.Sc. in Distributed Software Systems
+      institution: Technical University of Darmstadt
+      year: 2016
+    - course: MSc in Distributed Software Systems
       institution: Massachusetts Institute of Technology
       year: 2008
 
@@ -61,9 +61,9 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Apache Flink
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -75,10 +75,10 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Cooking
         description: ''
         percent: 100
-        icon: cat
+        icon: cooking
         icon_pack: fas
       - name: Photography
         description: ''
@@ -102,23 +102,23 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=_ZRNjQcAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/pratyushagnihotri
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/pratyushagnihotri/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am working as Research Scientist at TU Darmstadt as a part of DFG: Collaborative Research Center 1053 MAKI subproject C2. I joined the Master's course in Computer Science at TU Darmstadt in 2013. In his master thesis work, he proposed and developed a decentralized crowd-sensing data collection framework using Information-Centric Networking (ICN) concepts to deal with post-disaster challenges in communication. The thesis was done in joint collaboration with Prof. Dr.-Ing. Michael Zink, University of Massachusetts at Amherst, USA. After his graduation, he worked as a software developer at axxessio GmbH, Darmstadt in the application and research areas of Internet of Things (IoT), Smart City, Voice assistant. Since June 2021, he is working as a Research Scientist at the Multimedia Communication Lab and primarily associated with  C2 subproject of DFG MAKI.
 {style="text-align: justify;"}
