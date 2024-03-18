@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Pratyush Agnihotri
@@ -41,10 +41,16 @@ education:
       year: 2021
     - course: M.Sc. in Distributed Software Systems
       institution: Technical University of Darmstadt
+      topic: Towards Information-centric Collaboration Framework for Mobile Crowd Sensing
+      achievement: Best grades (1.0) and 
+      link: [paper published in 42nd IEEE Conference on Local Computer Networks (LCN'17)](https://ieeexplore.ieee.org/abstract/document/8109329/)
       year: 2016
-    - course: MSc in Distributed Software Systems
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: B.Tech in Computer Science and Engineering
+      institution: Amity University
+      topic: Towards Information-centric Collaboration Framework for Mobile Crowd Sensing
+      achievement: Best grades (9.34) and 
+      link: [paper published in 42nd IEEE Conference on Local Computer Networks (LCN'17)](https://ieeexplore.ieee.org/abstract/document/8109329/)
+      year: 2010
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
