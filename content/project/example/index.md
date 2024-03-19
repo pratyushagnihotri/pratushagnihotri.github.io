@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: DFG Collaborative Research Center 1053 MAKI
+summary: I am working as Researcher for MAKI Subproject C2 which explores transitions in communication systems from an information-centric view. A central paradigm for information processing are event-based systems (EBS), which model the information flow as streams of events and help to recognize certain patterns over the event streams at runtime. The goal of C2 is to explore methods for transition-based adaptation of event-processing systems and thereby achieve a significant increase in the quality of service under dynamically varying conditions.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://www.maki.tu-darmstadt.de/forschung_maki/index.de.jsp
 url_code: ''
 url_pdf: ''
 url_slides: ''
