@@ -77,7 +77,7 @@ sections:
         - title: Senior Associate IT Consultant
           company: axxessio GmbH
           company_url: ''
-          company_logo: org-x
+          company_logo: org-tu
           location: Darmstadt
           date_start: '2017-03-01'
           date_end: '2023-07-31'
