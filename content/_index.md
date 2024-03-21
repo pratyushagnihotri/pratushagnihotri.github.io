@@ -65,7 +65,7 @@ sections:
         - title: Research Scientist
           company: Multimedia Communication Lab
           company_url: 'https://www.kom.tu-darmstadt.de/staff/pratyush-agnihotri'
-          company_logo: org-tud
+          #company_logo: org-tud
           location: Darmstadt
           date_start: '2021-06-01'
           date_end: ''
