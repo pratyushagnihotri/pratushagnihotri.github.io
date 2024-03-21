@@ -70,19 +70,18 @@ sections:
           date_start: '2021-06-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+            Currently Associated with:
+              * The Department of Distributed and Operating Systems Group, TU Ilmenau.
+              * The Department of Distributed Systems, University of Groningen.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Senior Associate IT Consultant
+          company: axxessio GmbH
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Darmstadt
+          date_start: '2017-03-01'
+          date_end: '2023-07-31'
+          #description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
  # - block: accomplishments
