@@ -65,7 +65,7 @@ sections:
         - title: Research Scientist
           company: Multimedia Communication Lab
           company_url: 'https://www.kom.tu-darmstadt.de/staff/pratyush-agnihotri'
-          #company_logo: org-tud
+          company_logo: org-tud
           location: Darmstadt
           date_start: '2021-06-01'
           date_end: ''
@@ -77,7 +77,7 @@ sections:
         - title: Senior Associate IT Consultant
           company: axxessio GmbH
           company_url: ''
-          company_logo: org-tu
+          company_logo: org-x
           location: Darmstadt
           date_start: '2017-03-01'
           date_end: '2023-07-31'
