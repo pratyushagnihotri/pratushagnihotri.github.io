@@ -25,7 +25,7 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include - Distributed Parallel Stream Processing, Distributed Machine Learning and Autonomous Resource Management.
 
 # Interests to show in About widget
 interests:
