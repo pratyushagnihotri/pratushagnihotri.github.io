@@ -102,13 +102,13 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://x.com/pratyushagN03
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=_ZRNjQcAAAAJ&hl=en
+    link: https://dblp.org/search?q=pratyush+agnihotri
   - icon: github
     icon_pack: fab
     link: https://github.com/pratyushagnihotri
@@ -126,5 +126,7 @@ social:
 highlight_name: true
 ---
 
-I am working as Research Scientist at TU Darmstadt as a part of DFG: Collaborative Research Center 1053 MAKI subproject C2. I joined the Master's course in Computer Science at TU Darmstadt in 2013. In his master thesis work, he proposed and developed a decentralized crowd-sensing data collection framework using Information-Centric Networking (ICN) concepts to deal with post-disaster challenges in communication. The thesis was done in joint collaboration with Prof. Dr.-Ing. Michael Zink, University of Massachusetts at Amherst, USA. After his graduation, he worked as a software developer at axxessio GmbH, Darmstadt in the application and research areas of Internet of Things (IoT), Smart City, Voice assistant. Since June 2021, he is working as a Research Scientist at the Multimedia Communication Lab and primarily associated with  C2 subproject of DFG MAKI.
+Since June 2021, I have been working as a Research Scientist at the Multimedia Communication Lab at TU Darmstadt, primarily contributing to the DFG Collaborative Research Center 1053 MAKI, subproject C2. My research focuses on distributed stream processing, particularly in developing performance modeling methods to optimize decisions related to operator parallelism and resource management. Additionally, I am associated with the Distributed and Operating Systems Group at TU Ilmenau and the University of Groningen.
+
+Prior to my current role, I spent six years at axxessio GmbH as a Senior Software Engineer and Technology Consultant. There, I specialized in the application and research areas of the Internet of Things (IoT), Smart City initiatives, and voice assistant technologies.
 {style="text-align: justify;"}
