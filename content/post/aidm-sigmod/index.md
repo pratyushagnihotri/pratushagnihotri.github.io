@@ -1,5 +1,5 @@
 ---
-title: Presenting at Sigmod Conference 2023
+title: Introducing Zero-Shot at Sigmod Conference 2023
 date: '2023-06-23'
 summary: Presented our paper Zero-Shot Cost Models for Parallel Stream Processing
 ---
