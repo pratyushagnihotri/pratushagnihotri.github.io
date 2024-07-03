@@ -126,7 +126,5 @@ social:
 highlight_name: true
 ---
 
-Since June 2021, I have been working as a Research Scientist at the Multimedia Communication Lab at TU Darmstadt, primarily contributing to the DFG Collaborative Research Center 1053 MAKI, subproject C2. My research focuses on distributed stream processing, particularly in developing performance modeling methods to optimize decisions related to operator parallelism and resource management. Additionally, I am associated with the Distributed and Operating Systems Group at TU Ilmenau and the University of Groningen.
-
-Prior to my current role, I spent six years at axxessio GmbH as a Senior Software Engineer and Technology Consultant. There, I specialized in the application and research areas of the Internet of Things (IoT), Smart City initiatives, and voice assistant technologies.
+Since June 2021, I have been working as a Research Scientist at the Multimedia Communication Lab at TU Darmstadt, primarily contributing to the DFG Collaborative Research Center 1053 MAKI, subproject C2. My research focuses on distributed stream processing, particularly in developing performance modeling methods to optimize decisions related to operator parallelism and resource management. Additionally, I am associated with the Distributed and Operating Systems Group at TU Ilmenau and the University of Groningen. Prior to my current role, I spent six years at axxessio GmbH as a Senior Software Engineer and Technology Consultant. There, I specialized in the application and research areas of the Internet of Things (IoT), Smart City initiatives, and voice assistant technologies.
 {style="text-align: justify;"}
