@@ -80,9 +80,18 @@ sections:
           location: Darmstadt, Germany
           date_start: '2017-03-01'
           date_end: '2023-07-31'
-          
+
+        - title: Graduate Student Assistant for course Distributed System
+          company: Telecooperation group, TU Darmstadt
+          company_url: ''
+          #company_logo: org-x
+          location: Darmstadt, Germany
+          date_start: '2014-10-01'
+          date_end: '2017-02-28'
+          #description: Taught electronic engineering and researched semiconductor physics.
+
     design:
-      columns: '6'
+      columns: '2'
  # - block: accomplishments
  #   content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
