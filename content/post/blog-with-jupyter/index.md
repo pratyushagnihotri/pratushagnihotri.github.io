@@ -1,34 +1,25 @@
 ---
-title: Blog with Jupyter Notebooks!
-date: '2023-11-04'
-summary: Easily blog from Jupyter notebooks!
+title: Presenting ZeroTune at an A* venue IEEE ICDE Conference 2024
+date: '2024-05-15'
+summary: Our paper ZeroTune - Learned Zero-Shot Cost Models for Parallelism Tuning in Stream Processing presentation
 ---
 
-
-```python
-from IPython.core.display import Image
-Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
-```
+#```python
+#from IPython.core.display import Image
+#Image('https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png')
+#```
 
     
-![png](output_1_0.png)
+![png](ICDE_2024_ZeroTune_Presentation.jpeg)
     
 
-```python
-print("Welcome to Academic!")
-```
+#```python
+#print("Welcome to Academic!")
+#```
 
-    Welcome to Academic!
+[ICDE 2024](https://icde2024.github.io/)
 
-## Organize your notebooks
+I had the incredible opportunity to present our paper, "ZeroTune- Learned Zero-Shot Cost Models for Parallelism Tuning in Stream Processing," at an A* venue IEEE ICDE Conference 2024 🎉
 
-Place the notebooks that you would like to publish in a `notebooks` folder at the root of your website.
+Our research focuses on developing novel zero-shot cost models for performance prediction and efficient parallelism tuning in stream processing systems. ZeroTune aims to accurately predict performance and generalize across unseen parallel query structures and heterogeneous resources, all while reducing computational costs and training effort through a data-efficient training strategy. This represents a significant advancement in the field of data stream processing, and I’m thrilled to have shared our findings with such an esteemed audience. You can refer our paper [here] (https://lnkd.in/eTjJHb_9).
 
-## Import the notebooks into your site
-
-```bash
-pipx install academic
-academic import 'notebooks/**.ipynb' content/post/ --verbose
-```
-
-The notebooks will be published to the folder you specify above. In this case, they will be published to your `content/post/` folder.
