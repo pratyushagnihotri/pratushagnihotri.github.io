@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: IEEE ICDE Conference - ZeroTune
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org

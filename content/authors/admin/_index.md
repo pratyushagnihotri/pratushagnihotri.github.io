@@ -32,6 +32,7 @@ interests:
   - Distributed Parallel Stream Processing
   - Distributed Machine Learning 
   - Autonomous Resource Management
+  - Resource-efficient Learning
 
 # Education to show in About widget
 education:
