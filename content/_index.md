@@ -107,7 +107,16 @@ sections:
           date_start: '2014-06-01'
           date_end: '2014-08-31'
           #description: Taught electronic engineering and researched semiconductor physics. 
-          
+        
+        - title: Senior Software Engineer
+          company: HCL Technologies Pvt. Ltd.
+          company_url: ''
+          #company_logo: org-x
+          location: Noida, India
+          date_start: '2010-08-01'
+          date_end: '2013-09-02'
+          #description: Taught electronic engineering and researched semiconductor physics.
+
     design:
       columns: '2'
  # - block: accomplishments
