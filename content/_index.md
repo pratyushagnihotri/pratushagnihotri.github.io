@@ -77,26 +77,24 @@ sections:
         - title: Senior Associate IT Consultant
           company: axxessio GmbH
           company_url: ''
-          #company_logo: org-x
-          location: Darmstadt
+          location: Darmstadt, Germany
           date_start: '2017-03-01'
           date_end: '2023-07-31'
-          #description: Taught electronic engineering and researched semiconductor physics.
 
         - title: Graduate Student Assistant for course Distributed System
           company: Telecooperation group, TU Darmstadt
           company_url: ''
           #company_logo: org-x
-          location: Darmstadt
+          location: Darmstadt, Germany
           date_start: '2014-10-01'
           date_end: '2017-02-28'
           #description: Taught electronic engineering and researched semiconductor physics.
         
-        - title: Quality Engineer & Automation Developer (Work Student)
+        - title: Quality Engineer & Automation Developer
           company: Kobil System GmbH, Darmstadt, Germany
           company_url: ''
           #company_logo: org-x
-          location: Darmstadt
+          location: Darmstadt, Germany
           date_start: '2014-06-01'
           date_end: '2016-12-31'
           #description: Taught electronic engineering and researched semiconductor physics.
@@ -105,22 +103,22 @@ sections:
           company: Distributed Multimedia Systems Group, TU Darmstadt
           company_url: ''
           #company_logo: org-x
-          location: Darmstadt
+          location: Darmstadt, Germany
           date_start: '2014-06-01'
           date_end: '2014-08-31'
           #description: Taught electronic engineering and researched semiconductor physics. 
 
          - title: Senior Software Engineer
-          company: HCL Technologies Pvt. Ltd., Noida, India
+          company: HCL Technologies Pvt. Ltd.
           company_url: ''
           #company_logo: org-x
-          location: Darmstadt
+          location: Noida, India
           date_start: '2010-08-01'
           date_end: '2013-09-02'
           #description: Taught electronic engineering and researched semiconductor physics.
 
     design:
-      columns: '2'
+      columns: '6'
  # - block: accomplishments
  #   content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
