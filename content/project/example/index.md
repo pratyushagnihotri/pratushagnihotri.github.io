@@ -2,25 +2,25 @@
 title: DFG Collaborative Research Center 1053 MAKI
 summary: I am working as Researcher for MAKI Subproject C2 which explores transitions in communication systems from an information-centric view. 
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - MAKI
+date: '2021-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
   caption: Photo by Sonderforschungsbereich 1053 MAKI
-  focal_point: Smart
+  focal_point: MAKI
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://www.maki.tu-darmstadt.de/forschung_maki/index.de.jsp
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+    url: https://x.com/kom_tudarmstadt?lang=en
+#url_code: ''
+#url_pdf: ''
+#url_slides: ''
+#url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
