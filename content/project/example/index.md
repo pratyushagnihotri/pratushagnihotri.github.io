@@ -27,7 +27,7 @@ links:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 ---
 
 I am working as Researcher for MAKI Subproject C2 which explores transitions in communication systems from an information-centric view. A central paradigm for information processing are event-based systems (EBS), which model the information flow as streams of events and help to recognize certain patterns over the event streams at runtime. The goal of C2 is to explore methods for transition-based adaptation of event-processing systems and thereby achieve a significant increase in the quality of service under dynamically varying conditions.
