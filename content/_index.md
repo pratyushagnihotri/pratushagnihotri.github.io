@@ -74,7 +74,7 @@ sections:
               * The Department of Distributed and Operating Systems Group, TU Ilmenau.
               * The Department of Distributed Systems, University of Groningen.
 
-        - title: Senior Associate IT Consultant
+        - title: Associate Team Lead
           company: axxessio GmbH
           company_url: ''
           location: Darmstadt, Germany
